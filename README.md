@@ -78,10 +78,12 @@ These are all the tasks of this project, the ones that are completed link to the
         * Create a man page for your function.
 ---
 ### Authors
-   *Akeh9ja - [wilfreddbest1@gmail.com(https://github.com/Akeh9ja)]
+   *Name: Tetteh Solomon
+    Gmail: tettehsolomon106@gmail.com
+    Github: https://github.com/TettehSolomon
    
    
-   *Sommy20 - [chi2chisom20@gmail.com(https://github.com/Sommy20)]
+   *Name: Alfred
 
 
                                                                                  73,45         Bot
