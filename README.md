@@ -83,7 +83,7 @@ These are all the tasks of this project, the ones that are completed link to the
     Github: https://github.com/TettehSolomon
    
    
-   *Name: Alfred
+   *Name: Alfred Emmanuel
 
 
                                                                                  73,45         Bot
